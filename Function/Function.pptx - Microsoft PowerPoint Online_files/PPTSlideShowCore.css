@@ -1,0 +1,17 @@
+svg.svm-interactive-element-focus-class:focus-within {
+  outline: solid 1px white;
+  border: solid 1px black;
+}
+
+.show-accessibility-element {
+  position: absolute;
+  left: -10px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.slide-container-class {
+  margin-top: 4px;
+}
